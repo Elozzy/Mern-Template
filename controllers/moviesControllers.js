@@ -1,4 +1,4 @@
-const Movie = require('../models/movies');
+const Movie = require('../models/moviesModels');
 
 // Defining all methods and business logic for routes
 
